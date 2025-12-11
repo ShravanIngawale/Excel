@@ -12,3 +12,7 @@ I’m using Excel to practice core analyst skills such as formulas, pivot tables
 - Screenshots
   - Dashboard
   - Pivot Tables with Charts
+- Explanation
+
+## Project Explanation
+1. Retail Sales
