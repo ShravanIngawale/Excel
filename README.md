@@ -7,8 +7,8 @@ Each project focuses on working with real or sample data, cleaning it, exploring
 I’m using Excel to practice core analyst skills such as formulas, pivot tables, charts, and basic automation.
 
 ## What's inside
-- raw csv
-- Processed CSV
+- raw data
+- Processed Data
 - Screenshots
   - Dashboard
   - Pivot Tables with Charts
