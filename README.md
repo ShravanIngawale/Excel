@@ -15,4 +15,4 @@ I’m using Excel to practice core analyst skills such as formulas, pivot tables
 - Explanation
 
 ## Project Explanation
-1. [Retail Sales](https://www.linkedin.com/posts/shravan-ingawale_customer-purchase-report-activity-7392434923347030016-oOAr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFCZkAsB41lojWrgWfkBTjAoYsX5KwJrrEo)
+1. [Retail Sales](https://www.linkedin.com/posts/shravan-ingawale_excel-dataanalysis-dashboard-activity-7405493407697154048-XG4W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFCZkAsB41lojWrgWfkBTjAoYsX5KwJrrEo)
