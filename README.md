@@ -16,5 +16,5 @@ I’m using Excel to practice core analyst skills such as formulas, pivot tables
 
 ## Project Explanation
 1. [Retail Sales](https://www.linkedin.com/posts/shravan-ingawale_excel-dataanalysis-dashboard-activity-7405493407697154048-XG4W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFCZkAsB41lojWrgWfkBTjAoYsX5KwJrrEo)
-2. [Retail MIS Dashboard](https://www.linkedin.com/posts/shravan-ingawale_excel-dataanalysis-dashboard-activity-7405493407697154048-XG4W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFCZkAsB41lojWrgWfkBTjAoYsX5KwJrrEo)
+2. [Retail MIS Dashboard](https://www.linkedin.com/posts/shravan-ingawale_excel-excelproject-mis-activity-7426853131084468224-HQZt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCZkAsB41lojWrgWfkBTjAoYsX5KwJrrEo)
 
